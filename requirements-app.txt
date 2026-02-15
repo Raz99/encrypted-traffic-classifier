@@ -1,0 +1,9 @@
+# Web and API dependencies
+fastapi
+uvicorn[standard]
+streamlit
+requests
+celery[redis]
+redis
+python-multipart
+pandas # Pandas is kept here for basic CSV handling before sending to worker
