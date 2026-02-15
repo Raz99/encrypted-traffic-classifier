@@ -8,10 +8,10 @@ The system classifies traffic into 128 applications and 5 attribution categories
 
 ## Demo
 
-Watch a short end-to-end system demonstration (Docker orchestration, API flow and UI inference):  
+▶ Watch the full system demonstration video:
 <p align="center">
   <a href="https://youtu.be/Oacadj3C_Ns">
-    <img src="docs/demo.png" width="600">
+    <img src="https://img.youtube.com/vi/Oacadj3C_Ns/0.jpg" width="600">
   </a>
 </p>
 
