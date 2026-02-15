@@ -44,6 +44,7 @@ Due to competition constraints and size limitations, the dataset and trained mod
 ---
 
 ## Project Structure
+```
 .  
 ├── Dockerfile.app          # Docker config for API and UI  
 ├── Dockerfile.worker       # Docker config for the ML Worker  
@@ -58,6 +59,7 @@ Due to competition constraints and size limitations, the dataset and trained mod
 ├── attribution_model.py    # Attribution training script  
 ├── predictions/            # Output prediction files  
 └── docs/                   # Project presentation
+```
 
 ---
 
